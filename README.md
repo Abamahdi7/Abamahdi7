@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlrZzg4Y2NuOWMxcmJzNGFkd3hmMHo0aDJ0ZXM4OTBnc2Uza3pucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W1hd3uXRIbddu/giphy.gif" width="220"/>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQG8EaLDmIi2HA/profile-displaybackgroundimage-shrink_350_1400/B4EZnHBBEiKgAY-/0/1759980559013?e=1772064000&v=beta&t=nFWQGFeUW5GSZ9FFgPOZwVDdZjJnLP7y725ZJOkg-tg" width="100%" alt="ADAM Banner"/>
 
-# 👋 HI, I'M ADAM !
+#  HI, I'M ADAM !
 
 </div>
 
 - 🎓 **Computer Engineering student**, 19 years old, with a strong academic foundation in  
   **advanced mathematics**, **physics**, and **computer science**
 
-- 🧠 Solid background in **algebra**, **analysis**, **probability & statistics**, combined with  
+- 🧠 Good background in **algebra**, **analysis**, **probability & statistics**, combined with  
   core engineering physics and **algorithmic thinking**
 
 - 🏆 Certified in **Python (Harvard University)** and **Data Structures (CS50x)**  
