@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Hi , I'm ADAM ! 
 🧑‍💻 I’m currently working on:<br>- Academic and personal projects related to Computer Engineering<br><br>🤝 I’m looking to collaborate on:<br>- Beginner to intermediate AI / Machine Learning projects<br><br>🆘 I’m looking for help with:<br>- Improving project structure and clean code practices<br><br>🌱 I’m currently learning:<br>- Data Structures & Algorithms<br>- Foundations required for Artificial Intelligence and Machine Learning<br><br>💬 Ask me about:<br>- Computer Engineering fundamentals<br>- Algorithms, data structures, and academic CS topics<br><br>⚡ Fun fact:<br>- I enjoy combining strong mathematical theory with practical programming to build real-world solutions<br>
 
 
-## 🌐 Socials:
+## 🤝Connect with Me🤝:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nounzz7x) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.abamahdi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-abamahdi-8b2a76268) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nounzx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nounz7x) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCe5rATZ9odZb-b3Ly_kebxg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abamahdiadam2006@gmail.com) 
 
 # 💻 Tech Stack:
@@ -19,3 +19,12 @@
 [![](https://visitcount.itsvg.in/api?id=Abamahdi7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
