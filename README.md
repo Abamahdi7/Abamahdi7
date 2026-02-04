@@ -1,24 +1,23 @@
-# 💫 About Me
+<div align="center">
 
-🧑‍💻 **I’m currently working on:**  
-- Academic and personal projects related to **Computer Engineering**
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlrZzg4Y2NuOWMxcmJzNGFkd3hmMHo0aDJ0ZXM4OTBnc2Uza3pucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W1hd3uXRIbddu/giphy.gif" width="220"/>
 
-🤝 **I’m looking to collaborate on:**  
-- Beginner to intermediate **AI / Machine Learning** projects
+# 👋 HI, I'M ADAM !
 
-🆘 **I’m looking for help with:**  
-- Improving project structure and **clean code** practices
+</div>
 
-🌱 **I’m currently learning:**  
-- **Data Structures & Algorithms**  
-- Foundations required for **Artificial Intelligence & Machine Learning**
+- 🎓 **Computer Engineering student**, 19 years old, with a strong academic foundation in  
+  **advanced mathematics**, **physics**, and **computer science**
 
-💬 **Ask me about:**  
-- Computer Engineering fundamentals  
-- Algorithms, data structures, and academic CS topics
+- 🧠 Solid background in **algebra**, **analysis**, **probability & statistics**, combined with  
+  core engineering physics and **algorithmic thinking**
 
-⚡ **Fun fact:**  
-- I enjoy combining strong **mathematical theory** with **practical programming** to build real-world solutions
+- 🏆 Certified in **Python (Harvard University)** and **Data Structures (CS50x)**  
+  with multiple completed projects, including a **Bank Management System**
+
+- 🤖 **Aspiring AI Engineer**, focused on understanding the **mathematical** and  
+  **algorithmic foundations** behind intelligent systems
+
 
 ---
 <div align="center">
@@ -39,7 +38,7 @@
 ---
 <div align="center">
 
-## 💻 TECH STACK
+##  TECH STACK
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
