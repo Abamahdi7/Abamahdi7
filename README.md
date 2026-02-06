@@ -12,7 +12,7 @@
 - 🧠 Good background in **algebra**, **analysis**, **probability & statistics**, combined with  
   core engineering physics and **algorithmic thinking**
 
-- 🏆 Certified in **Python (Harvard University)** and **Data Structures (Harvard University) **  
+- 🏆 Certified in **Python (Harvard University)** and **Data Structures (Harvard University)**  
   with multiple completed projects, including a **Bank Management System**
 
 - 🤖 **Aspiring AI Engineer**, focused on understanding the **mathematical** and  
