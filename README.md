@@ -59,19 +59,5 @@
 </div>
 
 ---
-<div align="center">
-
-##  GITHUB STATS
-
-![](https://github-readme-stats.vercel.app/api?username=Abamahdi7&theme=dark&hide_border=false)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abamahdi7&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abamahdi7&theme=dark&layout=compact)
-
-</div>
-
-
----
 
 
